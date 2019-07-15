@@ -31,6 +31,10 @@
 - java社区平台（11k+）：https://github.com/b3log/symphony
 - 个人博客（6k+）：https://github.com/halo-dev/halo
 - 分布式任务调度平台（8k+）：https://github.com/xuxueli/xxl-job
+- 微服务项目（6k+）：https://github.com/sqshq/piggymetrics
+- java工具包（6k+）：https://github.com/looly/hutool
+- NLP工具包（13k+）：https://github.com/hankcs/HanLP
+- 程序羊：https://github.com/hansonwang99/Spring-Boot-In-Action
 
 - 小项目集合（2k+）：https://github.com/zhanglei-workspace/shopping-management-system
 
